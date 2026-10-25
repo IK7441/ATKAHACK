@@ -34,7 +34,7 @@ If you get trapped inside the troll terminal sequence or need to clear the acces
 
 Follow these exact steps to download and run the application straight from your **Downloads** folder:
 
-1. **Download** the `terminal.ps1` file from this repository onto your computer.
+1. **Download** the `ATKA_HACK_v4.ps1` file from this repository onto your computer.
 2. Open **PowerShell** (Press `Win + X` and select *Windows PowerShell*, or search for `PowerShell` in the Start menu).
 3. Copy and paste the following commands directly into the terminal window to open your Downloads tab and run the script:
 
@@ -46,7 +46,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force
 cd "\$env:USERPROFILE\Downloads"
 
 # 3. Launch the matrix simulation
-.\terminal.ps1
+.\ATKA_HACK_v4.ps1
 ```
 
 ---
